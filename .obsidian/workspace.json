@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "b45e9fc657c8ae1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "663bdb4ebe7fb4a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "489841a0f772652a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8eea34adad6d1a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f94a26d520120c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fb955a90a5bdb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c25bc9c2c65bd45a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8ffeb10306a7ac6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3939197539dbbf75",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa92354481bf764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f409e52098d8543d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "cfe59c7eee3712cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "22d4b81beec9d942",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b578652f1258f7b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "bc2f39ce3371b68b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "489841a0f772652a",
+  "lastOpenFiles": [
+    "article/主赛道是金融和病毒.md",
+    "article/沪深两市成交额.md",
+    "article/明斯基时刻.md",
+    "template/template1.md",
+    "未命名.base",
+    "article/芯片.md",
+    "template",
+    "article/向心坍缩.md",
+    "article/汉坦病毒.md",
+    "article/分析白银协会的报告.md",
+    "Clippings/腾讯混元干了件大事：Skill Graphs.md",
+    "Clippings/台湾出现汉坦病毒致死病例，台北全城消杀.md",
+    "Clippings/阿根廷，发现一例汉坦病毒感染病例.md",
+    "Clippings/从石油美元到算智美元：AI Token、Crypto Token、RWA 与美元换锚.md",
+    "Clippings/豪华游轮突发致命病毒，已有3人死亡，游轮被禁止靠岸.md",
+    "article/白银报告.md",
+    "attachments/5a488431db4e4c53b21ac07f3c16e7d4.jpg",
+    "article/英伟达CEO黄仁勋 下一代AI基础设施将需要大量的光学连接铜线已无法满足需求.md",
+    "article/资本导入AI基建.md",
+    "attachments/fa1a1ba555dbce24b35dfdb5204c3d3b.jpg",
+    "attachments/9d08b48663cf0eed79b3e8df000a84c3.png",
+    "attachments/Gold-Demand-Trends-Q1-2026.pdf",
+    "attachments/15b90ad47a2e1f7ea77934c704ebd5e0.png",
+    "attachments/b1339363d1d976782e094a4834ea61ea.png",
+    "attachments/39e151b8fdaf6db8d8328a8a4f2f7e75.jpg",
+    "attachments/baf108c59fafb1c2398395b26725bf4e.png",
+    "attachments/db001e038a8e3006c2b4232310c32955.png",
+    "attachments/c888e892c777833d508476f5a63c45f7.png",
+    "attachments/98efaedb304510375ae2ea8c48a38fe6.png",
+    "article/Skill Graphs.md",
+    "article/Markov Decision Process（马尔可夫决策过程）.md",
+    "Clippings",
+    "article/IT实时新闻网站.md",
+    "README.md",
+    "article",
+    "article/费雪债务通缩.md",
+    "attachments"
+  ]
+}
