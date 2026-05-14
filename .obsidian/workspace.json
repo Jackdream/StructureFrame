@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "663bdb4ebe7fb4a9",
+        "id": "a3bf9e9a766f9fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "489841a0f772652a",
+            "id": "9f886a8826c1800c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "article/Thinking Machines Lab首个大模型 TML-Interaction-Small.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thinking Machines Lab首个大模型 TML-Interaction-Small"
             }
           }
         ]
@@ -179,44 +183,50 @@
       "bases:新建数据库": false
     }
   },
-  "active": "489841a0f772652a",
+  "active": "9f886a8826c1800c",
   "lastOpenFiles": [
-    "article/主赛道是金融和病毒.md",
-    "article/沪深两市成交额.md",
-    "article/明斯基时刻.md",
-    "template/template1.md",
+    "article/Thinking Machines Lab首个大模型 TML-Interaction-Small.md",
+    "article/人口.md",
+    "Clippings/Markdown要凉…卡帕西也站HTML了.md",
+    "article/全面开放外资全资.md",
+    "article/AI企业.md",
+    "attachments/6e1b824ce89fd3bc030b0f199f911748.jpg",
+    "article/AI基建.md",
+    "Clippings/Wolfram 放话：LLM 给「意识需要魔法」钉上了最后一颗钉子！一个神经网络，正在改写人类最古老的哲学问题.md",
+    "Clippings/张文木：历史逻辑与国际体系——简论正在形成的“新雅尔塔体系”及其历史意义.md",
     "未命名.base",
-    "article/芯片.md",
-    "template",
-    "article/向心坍缩.md",
+    "article/宋朝.md",
     "article/汉坦病毒.md",
     "article/分析白银协会的报告.md",
-    "Clippings/腾讯混元干了件大事：Skill Graphs.md",
-    "Clippings/台湾出现汉坦病毒致死病例，台北全城消杀.md",
-    "Clippings/阿根廷，发现一例汉坦病毒感染病例.md",
-    "Clippings/从石油美元到算智美元：AI Token、Crypto Token、RWA 与美元换锚.md",
-    "Clippings/豪华游轮突发致命病毒，已有3人死亡，游轮被禁止靠岸.md",
-    "article/白银报告.md",
-    "attachments/5a488431db4e4c53b21ac07f3c16e7d4.jpg",
+    "article/费雪债务通缩.md",
+    "article/第三赛季主赛道是金融和病毒.md",
+    "article/白银.md",
+    "article/沪深两市成交额.md",
+    "article/Markov Decision Process（马尔可夫决策过程）.md",
+    "article/Skill Graphs.md",
+    "article/IT实时新闻网站.md",
+    "article/石油.md",
+    "article/紫金矿业.md",
+    "Clippings/所有中国实验室都忌惮字节、尊重 DeepSeek，一份观察笔记在英文圈传开了！.md",
+    "article/芯片.md",
+    "article/中曼石油.md",
+    "attachments/3245856d9351de9da4a186b827d2758d.jpg",
+    "attachments/73af2161f05b5e049fdf203fb84da38e.jpg",
+    "article/中国海油.md",
+    "Clippings/中国海上石油平台越造越远，南海已经打到1500米深水.md",
+    "summary",
     "article/英伟达CEO黄仁勋 下一代AI基础设施将需要大量的光学连接铜线已无法满足需求.md",
-    "article/资本导入AI基建.md",
+    "attachments/67dbf3d7122093b2ec762f056943dd24.png",
+    "template",
+    "attachments/5a488431db4e4c53b21ac07f3c16e7d4.jpg",
     "attachments/fa1a1ba555dbce24b35dfdb5204c3d3b.jpg",
     "attachments/9d08b48663cf0eed79b3e8df000a84c3.png",
     "attachments/Gold-Demand-Trends-Q1-2026.pdf",
     "attachments/15b90ad47a2e1f7ea77934c704ebd5e0.png",
     "attachments/b1339363d1d976782e094a4834ea61ea.png",
     "attachments/39e151b8fdaf6db8d8328a8a4f2f7e75.jpg",
-    "attachments/baf108c59fafb1c2398395b26725bf4e.png",
-    "attachments/db001e038a8e3006c2b4232310c32955.png",
-    "attachments/c888e892c777833d508476f5a63c45f7.png",
-    "attachments/98efaedb304510375ae2ea8c48a38fe6.png",
-    "article/Skill Graphs.md",
-    "article/Markov Decision Process（马尔可夫决策过程）.md",
     "Clippings",
-    "article/IT实时新闻网站.md",
-    "README.md",
     "article",
-    "article/费雪债务通缩.md",
     "attachments"
   ]
 }
